@@ -118,7 +118,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 .brand { display: inline-flex; align-items: center; gap: 12px; }
 .brand-mark {
   display: grid; place-items: center; width: 46px; height: 46px; border-radius: 13px;
-  font-size: 1.65rem; font-weight: 900; color: #fff;
+  font-size: 2.3rem; font-weight: 900; color: #fff; line-height: 1;
   background: linear-gradient(145deg, #3b8bff, #1452c4);
   box-shadow: inset 0 1px 0 rgba(255,255,255,.35), 0 8px 22px -8px var(--blue-glow);
 }
@@ -522,7 +522,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 
 @media (max-width: 760px) {
   body { font-size: 16px; padding-bottom: calc(68px + env(safe-area-inset-bottom)); }
-  .brand-mark { width: 42px; height: 42px; font-size: 1.45rem; }
+  .brand-mark { width: 42px; height: 42px; font-size: 2.05rem; }
   .brand-text strong { font-size: 1.15rem; }
 
   .hero { min-height: auto; padding-top: calc(var(--header-h) + 250px); justify-content: flex-start; background: var(--black); }
