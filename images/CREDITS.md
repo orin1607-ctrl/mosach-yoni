@@ -6,7 +6,7 @@
 
 | קובץ | צלם/ת | מקור |
 |---|---|---|
-| hero/*, og-image.jpg | Zoshua Colah | https://unsplash.com/photos/Oxt7brCHLc8 |
+| hero/*, og-image.jpg | Lorenzo Hamers | https://unsplash.com/photos/K2bNjPOUzSQ |
 | services/bodywork-* | Zoshua Colah | https://unsplash.com/photos/zyLW2erHdRg |
 | services/painting-* | uma dantara | https://unsplash.com/photos/S2DAAfQQF4g |
 | services/accident-* | Clark Van Der Beken | https://unsplash.com/photos/CSkriQWeTVs |
