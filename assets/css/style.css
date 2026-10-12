@@ -560,7 +560,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
   .contact-card { flex-wrap: wrap; }
   .contact-card > .btn, .cc-actions { width: 100%; }
   .contact-card > .btn { order: 3; }
-  .cc-actions { order: 3; flex: 1 1 100%; }
+  .contact-card > .cc-actions { order: 3; flex: 1 1 100%; }
   .cc-actions .btn { flex: 1; }
   .map-box, .map-box iframe, .map-placeholder { min-height: 300px; }
   .cta-band-actions { width: 100%; }
