@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://orin1607-ctrl.github.io/mosach-yoni/sitemap.xml
